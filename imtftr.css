@@ -8,7 +8,7 @@ a {
 }
 .bottom {
     height: 11vh;
-    background-image: url(../img/logo.png);
+    background-image: url(logo.png);
 }
 .bottomlink {
     height: 6vh;
@@ -25,7 +25,7 @@ a {
 }
 .content {
     height: 66vh;
-    background-image: url(../img/logo.jpg);
+    background-image: url(logo.jpg);
     text-align: center;
     font-size: 25px;
     color: rgb(230, 171, 165);
@@ -66,7 +66,7 @@ p {
 }
 .top {
     height: 11vh;
-    background-image: url(../img/logo.png);
+    background-image: url(logo.png);
 }
 #di {
     font-size: 2.5vh;
