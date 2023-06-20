@@ -1,0 +1,80 @@
+a {
+    color: rgb(230, 171, 165);
+    font-size: 25px;
+}
+#ass {
+    width: 29em;
+    margin: 0.4em;
+}
+.bottom {
+    height: 11vh;
+    background-image: url(../img/logo.png);
+}
+.bottomlink {
+    height: 6vh;
+    text-align: center;
+    background-color: rgb(5, 5, 5);
+}
+#complaint {
+    height: 20em;
+    width: 50em;
+    text-align: center;
+}
+.main {
+    display: inline-block;
+}
+.content {
+    height: 66vh;
+    background-image: url(../img/logo.jpg);
+    text-align: center;
+    font-size: 25px;
+    color: rgb(230, 171, 165);
+}
+#em {
+    width: 50em;
+    margin: 0.2em 0.4;
+}
+#foto {
+    height: 10em;
+    width: 10em;
+}
+img {
+    height: 12.5rem;
+    width: 9rem;
+    padding:5px;
+}
+.nav {
+    height: 4vh;
+    padding: 3vh;
+    text-align: center;
+    background-color: rgb(5, 5, 5);
+
+}
+#nome {
+    width: 19em;
+    margin: 0.4em;
+}
+p {
+    color: aliceblue;
+}
+#sobre {
+    text-align:center;
+}
+#sub {
+    width: 10em;
+    height: 2em;
+}
+.top {
+    height: 11vh;
+    background-image: url(../img/logo.png);
+}
+#di {
+    font-size: 2.5vh;
+}
+#dd {
+    font-size: 2.5vh;
+    margin-top: 5vh;
+}
+#sharp {
+    height: 20em;
+}
